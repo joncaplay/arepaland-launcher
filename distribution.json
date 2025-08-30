@@ -1,0 +1,20 @@
+{
+  "packages": [
+    {
+      "name": "Arepaland Moirak",
+      "title": "Arepaland Moirak",
+      "version": "1.0.0",
+      "minecraftVersion": "1.20.1",
+      "loader": {
+        "type": "forge",
+        "version": "47.3.0"
+      },
+      "server": {
+        "ip": "la5.holy.gg",
+        "port": 25711
+      },
+      "modpackUrl": "https://www.dropbox.com/scl/fi/6hj1e7tlj0cjlykpoldg8/modpack.zip?rlkey=i9jjreg9qf7jo74m1mng4vrms&st=wpkmqznh&dl=1",
+      "description": "Modpack oficial de la serie Arepaland Moirak - Clan D Launcher"
+    }
+  ]
+}
